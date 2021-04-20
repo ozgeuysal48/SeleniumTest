@@ -1,4 +1,4 @@
-# SeleniumTest
+# Selenium Web Automation
 
 This is a Selenium Web Automation Project.
 Its a Maven Project.
